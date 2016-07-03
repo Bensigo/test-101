@@ -1,3 +1,7 @@
 Django==1.9.7
 env==0.1.0
 virtualenv==15.0.2
+psycopg2
+gunicorn
+dj-database-url
+dj-static
